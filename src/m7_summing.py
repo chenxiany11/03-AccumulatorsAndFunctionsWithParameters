@@ -134,10 +134,8 @@ def sum_square_roots(n):
 
     total = 0
     for k in range(n):
-
         total = total + math.sqrt(2+2*k)
         return total
-
 # ----------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
