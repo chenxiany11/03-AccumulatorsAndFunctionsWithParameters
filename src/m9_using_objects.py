@@ -157,6 +157,8 @@ def lines():
     line2.attach_to(window)
     window.render()
     window.close_on_mouse_click()
+    midpoint = rg.Line()
+
 # ----------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
